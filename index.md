@@ -23,7 +23,8 @@
 (Accepted) 2021 IEEE International Conference on Bioinformatics & Biomedicine
 
 ## Photographing
-<img src="assets/20211205_072052.jpg" alt="Haiquan Bay, Qingdao, Shandong" width="500" />
+![Haiquan Bay, Qingdao, Shandong](/wangf98.github.io/assets/20211205_072052.jpg)
+!<img src="/wangf98.github.io/assets/20211205_072052.jpg" alt="Haiquan Bay, Qingdao, Shandong" width="500" />
 <img src="assets/DJI_0108_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
 <img src="assets/DJI_0123_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
 <img src="assets/20210506_151155.jpg" alt="Palace Museum, Beijing" width="500" />
