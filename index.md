@@ -31,4 +31,4 @@
 <img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20190807_170349.jpg" alt="Mount Fanjing, Tongre, Guizhou" width="500" />
 <img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20190831_145249.jpg" alt="Hongqiao Airport, Shanghai" width="500" />
 <img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20200725_153029.jpg" alt="Qilian, Qinghai" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20200727_173528__01__01.jpg" alt="Ge'ermu, Qinghai" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20200727_173528__01__01.jpg" alt="Geermu, Qinghai" width="500" />
