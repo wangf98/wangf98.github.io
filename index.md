@@ -23,12 +23,12 @@
 (Accepted) 2021 IEEE International Conference on Bioinformatics & Biomedicine
 
 ## Photographing
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/20211205_072052.jpg" alt="Haiquan Bay, Qingdao, Shandong" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/DJI_0108_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/DJI_0123_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/20210506_151155.jpg" alt="Palace Museum, Beijing" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20180801_152005.jpg" alt="Lugu Lake, Lijiang, Yunnan" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20190807_170349.jpg" alt="Mount Fanjing, Tongre, Guizhou" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20190831_145249.jpg" alt="Hongqiao Airport, Shanghai" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20200725_153029.jpg" alt="Qilian, Qinghai" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20200727_173528__01__01.jpg" alt="Geermu, Qinghai" width="500" />
+<img src="assets/20211205_072052.jpg" alt="Haiquan Bay, Qingdao, Shandong" width="500" />
+<img src="assets/DJI_0108_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
+<img src="assets/DJI_0123_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
+<img src="assets/20210506_151155.jpg" alt="Palace Museum, Beijing" width="500" />
+<img src="assets/IMG_20180801_152005.jpg" alt="Lugu Lake, Lijiang, Yunnan" width="500" />
+<img src="assets/IMG_20190807_170349.jpg" alt="Mount Fanjing, Tongre, Guizhou" width="500" />
+<img src="assets/IMG_20190831_145249.jpg" alt="Hongqiao Airport, Shanghai" width="500" />
+<img src="assets/IMG_20200725_153029.jpg" alt="Qilian, Qinghai" width="500" />
+<img src="assets/IMG_20200727_173528__01__01.jpg" alt="Geermu, Qinghai" width="500" />
