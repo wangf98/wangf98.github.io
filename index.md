@@ -1,6 +1,6 @@
 
 
-## Wang FU
+## Wang Fu
 
 ⭐️ From [wangf98](https://github.com/wangf98)
 
