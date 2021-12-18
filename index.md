@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/wangf98/wangf98.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Wang FU 👨‍💻
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![GitHub](https://img.shields.io/github/followers/wangf98.svg?style=social&label=Follow&maxAge=2592000)]
+
+**💼 Currently working for:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
+
+**👨🏻‍💻 Currently working on:** 
+
+<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+
+![wangf98's github stats](https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true&line_height=30)
+
+
+⭐️ From [wangf98](https://github.com/wangf98)
 
 ### Markdown
 
