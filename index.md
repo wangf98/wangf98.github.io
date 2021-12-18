@@ -23,12 +23,12 @@
 (Accepted) 2021 IEEE International Conference on Bioinformatics & Biomedicine
 
 ## Photographing
-<img src="https://github.com/wangf98/wangf98.github.io/blob/926e41487c713998873042604b9597f3b5578455/20211205_072052.jpg" alt="Haiquan Bay, Qingdao, Shandong" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/37b6aa503279c3eb1a8b6d218254e62f9f07e7aa/DJI_0108_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/37b6aa503279c3eb1a8b6d218254e62f9f07e7aa/DJI_0123_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/926e41487c713998873042604b9597f3b5578455/20210506_151155.jpg" alt="Palace Museum, Beijing" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/37b6aa503279c3eb1a8b6d218254e62f9f07e7aa/IMG_20180801_152005.jpg" alt="Lugu Lake, Lijiang, Yunnan" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/37b6aa503279c3eb1a8b6d218254e62f9f07e7aa/IMG_20190807_170349.jpg" alt="Mount Fanjing, Tongre, Guizhou" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/37b6aa503279c3eb1a8b6d218254e62f9f07e7aa/IMG_20190831_145249.jpg" alt="Hongqiao Airport, Shanghai" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/37b6aa503279c3eb1a8b6d218254e62f9f07e7aa/IMG_20200725_153029.jpg" alt="Qilian, Qinghai" width="500" />
-<img src="https://github.com/wangf98/wangf98.github.io/blob/37b6aa503279c3eb1a8b6d218254e62f9f07e7aa/IMG_20200727_173528__01__01.jpg" alt="Ge'ermu, Qinghai" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/20211205_072052.jpg" alt="Haiquan Bay, Qingdao, Shandong" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/DJI_0108_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/DJI_0123_remastered.jpg" alt="Zhanqiao, Qingdao, Shandong" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/20210506_151155.jpg" alt="Palace Museum, Beijing" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20180801_152005.jpg" alt="Lugu Lake, Lijiang, Yunnan" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20190807_170349.jpg" alt="Mount Fanjing, Tongre, Guizhou" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20190831_145249.jpg" alt="Hongqiao Airport, Shanghai" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20200725_153029.jpg" alt="Qilian, Qinghai" width="500" />
+<img src="https://github.com/wangf98/wangf98.github.io/blob/main/photos/IMG_20200727_173528__01__01.jpg" alt="Ge'ermu, Qinghai" width="500" />
