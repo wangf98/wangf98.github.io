@@ -1,29 +1,24 @@
 
 
-### Wang FU 👨‍💻
-
-[![GitHub](https://img.shields.io/github/followers/wangf98.svg?style=social&label=Follow&maxAge=2592000)]
-
-**💼 Currently working for:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
-
-**👨🏻‍💻 Currently working on:** 
-
-<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-
-![wangf98's github stats](https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true&line_height=30)
-
+## Wang FU
 
 ⭐️ From [wangf98](https://github.com/wangf98)
 
-### Markdown
+**💼 Currently working for:** Master Degree in Electronic Information at <a href="https://www.sjtu.edu.cn" target="_blank"><b>Shanghai Jiao Tong University</b></a>
+**👨🏻‍💻 Currently working on:** Graph Neural Network, Bioinformatics, Deep Learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<code><a href="https://github.com/pytorch/pytorch" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<code><a href="https://pytorch-geometric.readthedocs.io/en/latest/index.html" target="_blank"><img height="50" src="https://https://pytorch-geometric.readthedocs.io/en/latest/_static/pyg2.png"></a></code>
+<code><a href="https://https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 
-```markdown
-Syntax highlighted code block
+![wangf98's github stats](https://github-readme-stats.vercel.app/api?username=wangf98&show_icons=true&line_height=30)
+
+
+## Publications
+### Crafting and Detecting Adversarial Web Requests <https://ieeexplore.ieee.org/document/9091386>
+
+### Predicting RNA-RBP Interactions by Using a Pseudo-Siamese Network
+
 
 # Header 1
 ## Header 2
