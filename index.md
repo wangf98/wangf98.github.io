@@ -20,7 +20,7 @@
 2019 IEEE International Conference on Smart Cloud [IEEEXplore](https://ieeexplore.ieee.org/document/9091386)
 
 ### Predicting RNA-RBP Interactions by Using a Pseudo-Siamese Network
-(Accepted) 2021 IEEE International Conference on Bioinformatics & Biomedicine
+2021 IEEE International Conference on Bioinformatics & Biomedicine [IEEEXplore](https://ieeexplore.ieee.org/document/9669732)
 
 ## Photographing
 <img src="assets/20211205_072052.jpg" alt="Haiquan Bay, Qingdao, Shandong" width="500" />
